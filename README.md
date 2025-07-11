@@ -9,7 +9,7 @@ A scalable, full-stack web application designed to connect sellers of handmade a
 - **Frontend:** React.js
 - **Backend:** Spring Boot (Java)
 - **Middleware:** GraphQL
-- **Authentication:** Spring Security, JWT
+- **Authentication:** Spring Security, JWT, OAuth2.o
 - **Database:** MySQL with custom query layer
 - **Payments:** Stripe API
 - **Media Storage:** AWS S3
